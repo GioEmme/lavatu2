@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<themes>
+  <theme>
+    <title>Default</title>
+    <htmltag><![CDATA[<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">]]></htmltag>
+  </theme>
+  <theme>
+    <title>Dark</title>
+    <htmltag><![CDATA[<link href="css/ux-themes/bootstrap-dark.min.css" rel="stylesheet">]]></htmltag>
+  </theme>
+  <theme>
+    <title>Readable</title>
+    <htmltag><![CDATA[<link href="css/ux-themes/bootstrap-readable.min.css" rel="stylesheet">]]></htmltag>
+  </theme>
+</themes> 
